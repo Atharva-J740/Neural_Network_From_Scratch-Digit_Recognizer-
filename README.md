@@ -1,4 +1,4 @@
-# Neural Network From Scratch using NumPy
+# Neural Network From Scratch 
 
 This project implements a fully connected neural network from scratch using only **NumPy** for handwritten digit classification on the **MNIST (Kaggle Digit Recognizer)** dataset.
 
